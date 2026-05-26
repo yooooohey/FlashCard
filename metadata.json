@@ -1,0 +1,8 @@
+{
+  "name": "八重山ガイド",
+  "description": "多言語フラッシュカード・自動読み上げ学習アプリケーション。標準TTSに加え、Gemini超高音質音声合成(TTS)、AI自動翻訳、AI画像生成、Googleスプレッドシート一括同期機能、SM-2忘却曲線学習を搭載したプロフェッショナルなフラッシュカード学習プラットフォーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
